@@ -64,8 +64,8 @@ nav ul li a {
     left: 0;
     width: 100vw;
     z-index: 1;
-    background: #585858;
-    opacity: 0.60;
+    background: #837c7c;
+    opacity: 0.40;
 }
 
 .section {
@@ -299,7 +299,7 @@ hr {
     background-color: white;
     color: #585858;
     display: flex;
-    padding-top: 180px;
+    padding-top: 80px;
 }
 
 .container-d {
